@@ -1,1 +1,3 @@
 scripts/.ipynb_checkpoints/
+data/small_dataset/out
+*.sw*
