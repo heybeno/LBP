@@ -1,0 +1,16 @@
+corn cornS1-r9-305_b1.bmp
+can can4S3-r16-613_b1.bmp
+background corn3S2-r7-240_b0.bmp
+radish rad3S4-r9-389_b0.bmp
+corn cornS1-r9-303_b1.bmp
+radish rad3S4-r9-393_b0.bmp
+corn cornS1-r16-549_b1.bmp
+can can2S1-r9-355_b1.bmp
+corn cornS1-r9-306_b1.bmp
+background corn3S2-r7-242_b0.bmp
+can can4S3-r16-614_b1.bmp
+can can2S1-r9-352_b1.bmp
+radish rad3S4-r16-703_b0.bmp
+background rad2S2-r9-289_b0.bmp
+radish rad3S4-r16-698_b0.bmp
+background rad2S2-r9-291_b0.bmp
